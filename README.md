@@ -1,2 +1,2 @@
-# React-Todo-App
-Todo App created by using React Hooks
+# React-ToDo-App
+ToDo App created by using React Hooks
