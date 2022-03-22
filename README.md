@@ -1,5 +1,5 @@
 # React-ToDo-App
-ToDo App created by using React Hooks
+ToDo App created by using React Hooks.
 
 Check here: https://react-todo-app-khusamayasir.netlify.app/
 
